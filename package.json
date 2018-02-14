@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/NadaBasha/js-aurelia-starter-kit/issues"
   },
-  "homepage": "https://github.com/NadaBasha/js-aurelia-starter-kit#readme"
+  "homepage": "https://github.com/NadaBasha/js-aurelia-starter-kit#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
